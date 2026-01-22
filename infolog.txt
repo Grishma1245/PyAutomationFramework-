@@ -1,0 +1,2 @@
+2026-01-08 15:20:10,320 - __main__ - INFO - [My URL is open]
+2026-01-08 15:20:10,324 - __main__ - WARNING - [There is delay in opening the URL]

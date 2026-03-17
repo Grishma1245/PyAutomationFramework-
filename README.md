@@ -19,7 +19,7 @@ infolog.txt            # Log file for information
 
 How to use:
 1.Clone the repository
-git clone https://github.com/yourusername/PyAutomationFramework.git
+git clone https://github.com/Grishma1245/PyAutomationFramework-
 
 2.Set up the virtual environment:
 python -m venv myenv
